@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\combfomm\combfomm\bin\Debug\combfomm.exe.config
+C:\Users\User\source\repos\combfomm\combfomm\bin\Debug\combfomm.exe
+C:\Users\User\source\repos\combfomm\combfomm\bin\Debug\combfomm.pdb
+C:\Users\User\source\repos\combfomm\combfomm\obj\Debug\combfomm.csprojAssemblyReference.cache
+C:\Users\User\source\repos\combfomm\combfomm\obj\Debug\combfomm.Form1.resources
+C:\Users\User\source\repos\combfomm\combfomm\obj\Debug\combfomm.Properties.Resources.resources
+C:\Users\User\source\repos\combfomm\combfomm\obj\Debug\combfomm.csproj.GenerateResource.cache
+C:\Users\User\source\repos\combfomm\combfomm\obj\Debug\combfomm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\combfomm\combfomm\obj\Debug\combfomm.exe
+C:\Users\User\source\repos\combfomm\combfomm\obj\Debug\combfomm.pdb
